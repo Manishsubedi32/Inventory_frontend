@@ -1,0 +1,43 @@
+{
+    "posts": [
+        {
+            "id": "post-001",
+            "userId": "user-123",
+            "username": "john_doe",
+            "avatar": "https://api.example.com/avatars/john_doe.jpg",
+            "content": "Just received new inventory stock! 📦 Ready to ship orders.",
+            "image": "https://api.example.com/images/stock-001.jpg",
+            "timestamp": "2024-01-15T10:30:00Z",
+            "likes": 24,
+            "comments": 5,
+            "shares": 2,
+            "liked": false
+        },
+        {
+            "id": "post-002",
+            "userId": "user-456",
+            "username": "jane_smith",
+            "avatar": "https://api.example.com/avatars/jane_smith.jpg",
+            "content": "Inventory management tip: Always verify stock counts at the end of each day.",
+            "image": null,
+            "timestamp": "2024-01-14T15:45:00Z",
+            "likes": 156,
+            "comments": 23,
+            "shares": 8,
+            "liked": true
+        },
+        {
+            "id": "post-003",
+            "userId": "user-789",
+            "username": "warehouse_team",
+            "avatar": "https://api.example.com/avatars/warehouse_team.jpg",
+            "content": "Big thanks to our team for organizing the warehouse efficiently! Great work! 🎉",
+            "image": "https://api.example.com/images/warehouse-001.jpg",
+            "timestamp": "2024-01-13T09:20:00Z",
+            "likes": 89,
+            "comments": 12,
+            "shares": 4,
+            "liked": false
+        }
+    ]
+}
